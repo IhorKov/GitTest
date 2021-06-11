@@ -9,5 +9,8 @@ public class Main {
 
         name = "Vasiliy";
         position = "Manager";
+
+        System.out.println(name);
+        System.out.println(position);
     }
 }
