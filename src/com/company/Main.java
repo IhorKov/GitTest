@@ -8,7 +8,7 @@ public class Main {
         String name, position, address;
 
         age = 26;
-        salary = safdas;
+        salary = 20000;
         address = "Kharkov";
 
         System.out.println(age);
