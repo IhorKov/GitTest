@@ -7,6 +7,10 @@ public class Main {
         double salary;
         String name, position;
 
+        age = 26;
+        salary = safdas;
 
+        System.out.println(age);
+        System.out.println(salary);
     }
 }
