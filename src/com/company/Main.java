@@ -7,6 +7,7 @@ public class Main {
         double salary;
         String name, position;
 
-
+        name = "Vasiliy";
+        position = "Manager";
     }
 }
